@@ -18,3 +18,5 @@ The system addresses several significant challenges in the ticketing industry:
 2. **Scalpers and bots**: It can help block bots and define rules around which tickets can be resold.
 3. **Security**: It allows organizers to identify their patrons precisely, even if a ticket has been exchanged just before entering.
 4. **Data**: It provides a more transparent and customer-friendly experience.
+
+![Alt text](https://img.freepik.com/free-photo/3d-internet-secuirty-badge_1048-18106.jpg?size=626&ext=jpg "blockchain")
