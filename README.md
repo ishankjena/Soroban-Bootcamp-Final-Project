@@ -18,5 +18,3 @@ The system addresses several significant challenges in the ticketing industry:
 2. **Scalpers and bots**: It can help block bots and define rules around which tickets can be resold.
 3. **Security**: It allows organizers to identify their patrons precisely, even if a ticket has been exchanged just before entering.
 4. **Data**: It provides a more transparent and customer-friendly experience.
-
-In summary, a blockchain-based event ticketing system offers a safer, more transparent, and efficient method to buy and transfer tickets⁴. It's changing the way tickets are issued, transferred, and verified, providing a better experience for both event organizers and attendees¹²⁴. Let me know if you need more information! 😊
